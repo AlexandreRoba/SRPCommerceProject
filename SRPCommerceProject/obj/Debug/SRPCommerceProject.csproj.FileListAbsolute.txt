@@ -1,0 +1,10 @@
+C:\Users\Alexandre\Downloads\1-pood-single-responsibility-principle-exercise-files\Demo\SRP\SRPCommerceProject\bin\Debug\SRPCommerceProject.dll
+C:\Users\Alexandre\Downloads\1-pood-single-responsibility-principle-exercise-files\Demo\SRP\SRPCommerceProject\bin\Debug\SRPCommerceProject.pdb
+C:\Users\Alexandre\Downloads\1-pood-single-responsibility-principle-exercise-files\Demo\SRP\SRPCommerceProject\obj\Debug\SRPCommerceProject.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Downloads\1-pood-single-responsibility-principle-exercise-files\Demo\SRP\SRPCommerceProject\obj\Debug\SRPCommerceProject.dll
+C:\Users\Alexandre\Downloads\1-pood-single-responsibility-principle-exercise-files\Demo\SRP\SRPCommerceProject\obj\Debug\SRPCommerceProject.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\SRPCommerProject\SRPCommerceProject\bin\Debug\SRPCommerceProject.dll
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\SRPCommerProject\SRPCommerceProject\bin\Debug\SRPCommerceProject.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\SRPCommerProject\SRPCommerceProject\obj\Debug\SRPCommerceProject.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\SRPCommerProject\SRPCommerceProject\obj\Debug\SRPCommerceProject.dll
+C:\Users\Alexandre\Documents\Visual Studio 2015\Projects\SRPCommerProject\SRPCommerceProject\obj\Debug\SRPCommerceProject.pdb
